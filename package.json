@@ -1,0 +1,7 @@
+{
+  "name": "grpc-rcon-substitution",
+  "version": "0.1.0",
+  "main": "index.js",
+  "author": "Philainel <toropovmat@gmail.com>",
+  "license": "MIT"
+}
